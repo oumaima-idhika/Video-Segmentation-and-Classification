@@ -12,4 +12,4 @@ on a utilisé comme architecture de segmentation sémantique U-Net
 elle a une structure simple. C'est une répétition de blocs de construction de base : convolutions, ReLu, max pooling pour
 downsampling/encoding path , convolutions, ReLu pour upsampling/decoding path. Il ne devrait donc pas être trop compliqué à mettre en œuvre.
 
-![UNet architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-architecture-of-Unet_fig2_334287825&psig=AOvVaw1ZobykGdZiiIxYH6SmXAYv&ust=1654039579819000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCsteaviPgCFQAAAAAdAAAAABAD)
+![UNet architecture](https://www.researchgate.net/publication/334287825/figure/fig2/AS:778191392210944@1562546694325/The-architecture-of-Unet.ppm)
