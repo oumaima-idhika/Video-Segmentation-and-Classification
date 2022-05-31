@@ -19,7 +19,7 @@ downsampling/encoding path , convolutions, ReLu pour upsampling/decoding path. I
   
 ### Exemples  
   
-![resutatdl](https://user-images.githubusercontent.com/74614342/171068501-fee09f13-11f7-4eeb-9249-70b2fbf90704.PNG)  
+![resultatdl](https://user-images.githubusercontent.com/74614342/171282645-57c69417-9535-4e19-a268-63dea53be2a4.PNG)
   
 ## Partie Classification  
   
@@ -54,7 +54,7 @@ installez les bibliothèques suivantes :
   
 to run the app  
 ```bash
-streamlit run "path to streamlit app"
+streamlit run ./App_Streamlit.py
 ```
 
 
