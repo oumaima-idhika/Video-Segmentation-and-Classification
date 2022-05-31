@@ -43,8 +43,10 @@ Apres, on a créé le modèle CNN, en effet, on a créé  un modèle de classifi
 ### Exemples  
 ![resutatdl12](https://user-images.githubusercontent.com/74614342/171068775-b5bd6558-1dd9-446b-b2e3-fff17aa08dcc.jpeg)
   
-## Partie Déploiement 
-Aprés avoir implementé les deux modèles,on s'est lancé dans leur deploiement dans une application Streamlit.Vous pouvez voir dans ce qui suit le résultat de la classification et de la segmentation des videos.
+## Partie Déploiement  
+Aprés avoir implementé les deux modèles,on s'est lancé dans leur deploiement dans une application Streamlit.Vous pouvez voir dans ce qui suit le résultat de la classification et de la segmentation des videos.  
+  
+  
 ![image](https://user-images.githubusercontent.com/73661672/171285421-c4098333-92c7-4279-941d-68c5f423ed67.png)
 
 ![20220531_230912](https://user-images.githubusercontent.com/73661672/171284902-7dc5eb6a-24fc-4156-8a1d-411c0ace8f10.gif)
@@ -61,7 +63,7 @@ installez les bibliothèques suivantes :
   
 to run the app  
 ```bash
-streamlit run "path to streamlit app"
+streamlit run ./App_Streamlit
 ```
 
 
