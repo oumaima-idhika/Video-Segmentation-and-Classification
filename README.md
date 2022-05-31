@@ -19,7 +19,7 @@ downsampling/encoding path , convolutions, ReLu pour upsampling/decoding path. I
   
 ### Exemples  
   
-![resultatdl](https://user-images.githubusercontent.com/74614342/171282645-57c69417-9535-4e19-a268-63dea53be2a4.PNG)
+![resutatdl](https://user-images.githubusercontent.com/74614342/171068501-fee09f13-11f7-4eeb-9249-70b2fbf90704.PNG)  
   
 ## Partie Classification  
   
@@ -43,7 +43,14 @@ Apres, on a créé le modèle CNN, en effet, on a créé  un modèle de classifi
 ### Exemples  
 ![resutatdl12](https://user-images.githubusercontent.com/74614342/171068775-b5bd6558-1dd9-446b-b2e3-fff17aa08dcc.jpeg)
   
-## Partie Déploiement  
+## Partie Déploiement 
+Aprés avoir implementé les deux modèles,on s'est lancé dans leur deploiement dans une application Streamlit.Vous pouvez voir dans ce qui suit le résultat de la classification et de la segmentation des videos.
+![image](https://user-images.githubusercontent.com/73661672/171285421-c4098333-92c7-4279-941d-68c5f423ed67.png)
+
+![20220531_230912](https://user-images.githubusercontent.com/73661672/171284902-7dc5eb6a-24fc-4156-8a1d-411c0ace8f10.gif)
+
+![20220531_231230](https://user-images.githubusercontent.com/73661672/171285344-2ee7af9e-ad9e-424d-bfea-4e3560a30f38.gif)
+
 
 ## Usage   
 
@@ -54,7 +61,7 @@ installez les bibliothèques suivantes :
   
 to run the app  
 ```bash
-streamlit run ./App_Streamlit.py
+streamlit run "path to streamlit app"
 ```
 
 
