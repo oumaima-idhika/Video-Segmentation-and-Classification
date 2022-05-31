@@ -1,0 +1,34 @@
+sidewalk
+road
+parking
+rail track
+person
+rider
+car
+truck
+bus
+on rails
+motorcycle
+bicycle
+caravan
+trailer
+building
+wall
+fence
+guard rail
+bridge
+tunnel
+pole
+pole group
+traffic sign
+traffic light
+vegetation
+terrain
+sky
+ground
+dynamic
+static
+vide
+vide
+vide
+vide
