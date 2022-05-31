@@ -63,7 +63,7 @@ installez les bibliothèques suivantes :
   
 to run the app  
 ```bash
-streamlit run ./App_Streamlit
+streamlit run ./App_Streamlit.py
 ```
 
 
